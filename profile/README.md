@@ -2,7 +2,7 @@
 
 # 🏴‍☠️ HakiStack
 
-**José D. Rodríguez** | Software Developer | Puerto Rico 🇵🇷
+**José D. Rios Gerena** | Software Developer | Puerto Rico 🇵🇷
 
 Building deployment tools and web applications  
 **Rust • .NET • Angular**
@@ -22,7 +22,7 @@ Pull-based deployment automation that works behind any firewall.
 
 - 🦀 Rust agent with zero-downtime self-updates
 - 🔷 .NET 10 Control Center API
-- 🅰️ Angular 19 real-time web UI
+- 🅰️ Angular 21 real-time web UI
 
 **Status:** 🚧 In Development
 
@@ -43,7 +43,7 @@ Pull-based deployment automation that works behind any firewall.
 
 **Backend:** C# / .NET • Rust • SQL Server  
 **Frontend:** Angular • TypeScript • TailwindCSS  
-**DevOps:** Docker • Linux • Azure
+**DevOps:** Linux • Windows Server
 
 ---
 
