@@ -2,59 +2,66 @@
 
 # 🏴‍☠️ HakiStack
 
-**José D. Rios Gerena** | Software Developer | Puerto Rico 🇵🇷
+**Engineering resilient systems.**
 
-Building deployment tools and web applications  
-**Rust • .NET • Angular**
+Rust • .NET • Angular
 
 </div>
 
 ---
 
-## 🚀 Projects
+## ⚡ What is HakiStack?
 
-### [SYNCRA](https://github.com/hakistack/syncra-agent)
-Pull-based deployment automation that works behind any firewall.
+HakiStack is a collection of tools and systems focused on **resilient infrastructure, deployment automation, and modern web platforms**.
 
-**The Problem:** Azure DevOps blocked by government firewalls. Manual deployments take days.
+The goal is simple: build software that **keeps running even in restrictive environments**.
 
-**The Solution:** Agents pull updates from a control center. No inbound firewall rules needed.
+Projects in this organization focus on:
 
-- 🦀 Rust agent with zero-downtime self-updates
-- 🔷 .NET 10 Control Center API
-- 🅰️ Angular 21 real-time web UI
+- 🔐 Secure infrastructure
+- 🚀 Deployment automation
+- 🧩 Modular platforms
+- 📊 Operational visibility
 
-**Status:** 🚧 In Development
-
----
-
-## 📦 Repositories
-
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [syncra-agent](https://github.com/hakistack/syncra-agent) | Deployment agent | Rust |
-| [syncra-server](https://github.com/hakistack/syncra-server) | Control Center API | .NET 10 |
-| [syncra-web](https://github.com/hakistack/syncra-web) | Web UI | Angular 19 |
-| [syncra-docs](https://github.com/hakistack/syncra-docs) | Documentation | MkDocs |
+Designed for environments where reliability matters most.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Focus
 
-**Backend:** C# / .NET • Rust • SQL Server  
-**Frontend:** Angular • TypeScript • TailwindCSS  
-**DevOps:** Linux • Windows Server
+**Backend**  
+Rust • .NET • SQL Server
+
+**Frontend**  
+Angular • TypeScript • TailwindCSS
+
+**Infrastructure**  
+Linux • Windows Server • Self-hosted environments
 
 ---
 
-## 💡 About "HakiStack"
+## 🧭 Philosophy
 
-Inspired by *Haki* from One Piece - a manifestation of willpower that overcomes any obstacle.
+Inspired by **Haki** from *One Piece* — a manifestation of willpower that overcomes any obstacle.
 
-I build systems that refuse to break:
-- **Control** - Command with authority
-- **Resilience** - Zero-downtime updates, automatic rollback
-- **Observation** - Real-time monitoring
+At HakiStack we build systems with:
+
+**Control**  
+Software that gives operators full command over their infrastructure.
+
+**Resilience**  
+Systems designed to survive failure, network restrictions, and downtime.
+
+**Observation**  
+Clear visibility into system behavior through monitoring and telemetry.
+
+---
+
+## 📦 Projects
+
+The organization hosts several tools focused on deployment automation, infrastructure management, and developer productivity.
+
+Explore the repositories to learn more.
 
 ---
 
